@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Current Weather</title>
+  <link rel="stylesheet" href="./style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <div class="container">
+
+    <h1>Current Weather</h1>
+
+    <div class="search-bar">
+      <input class="city-name" type="text" placeholder="Type a city name">
+      <button onclick="weatherConsult()" type="submit"><b>Search</b></button>
+    </div>
+
+    <div data-js="city-card" class="card">
+    </div>
+
+  </div>
+  
+  <script src="./app.js"></script>
+</body>
+</html>
