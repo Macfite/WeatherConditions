@@ -1,6 +1,6 @@
 # Current Weather - Criado com javaScript puro
 
-![Image of Yaktocat] https://macfite-apps.s3-sa-east-1.amazonaws.com/upEmm/Screenshot_1.png
+![Image of Yaktocat] (https://macfite-apps.s3-sa-east-1.amazonaws.com/upEmm/Screenshot_1.png)
 
 Aplicação para visualizar dados climáticos atuais da cidade pesquisada.
 
