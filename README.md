@@ -9,7 +9,7 @@ A aplicação consome uma API da Open Weather Map:
  
  ### 📚 Objetivos
  
- Essa aplicação foi desenvolvida com fins pedagogicos para a prática de *promises* e processos assíncronos com javaScript puro
+ Essa aplicação foi desenvolvida com fins pedagogicos para a prática de *promises* e processos assíncronos com JavaScript puro
  
  ___
  
