@@ -1,7 +1,3 @@
-
-const iamgeState = document.querySelector('.img');
-const temperature = document.querySelector('.temperature');
-const city = document.querySelector('.city');
 const cityCard = document.querySelector('[data-js="city-card"]');
 
 const cityNameInput = (cityname) => cityname = document.querySelector('.city-name').value;
