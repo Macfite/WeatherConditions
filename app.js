@@ -6,7 +6,7 @@ const tempConvert = (temp) => Math.round(temp -= 273.15);
 const getWeatherUrl = (cityname) =>{
     cityname = cityNameInput();
     const apiKey = 'e46ef90aec602a56d6724fcd82b4c26d';
-    let lang = 'pt-br'
+    let lang = 'en'
 
     return `http://api.openweathermap.org/data/2.5/weather?q=${cityname}&APPID=${apiKey}&lang=${lang}`
 }
